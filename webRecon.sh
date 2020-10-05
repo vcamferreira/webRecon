@@ -34,8 +34,7 @@ function removeEnvironment() {
     else
         printf "[!] $ENVIRONMENT don't exist!\n\n"
         exit 1
-    fi
-    
+    fi    
 }
 
 function clonePage() {
